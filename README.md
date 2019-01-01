@@ -1,5 +1,5 @@
 # Image-scaling
-Naive scaling methods are content-unaware methods and hence produce undesirable results. Here is implementation of content-aware scaling of images by identifying and manipulating the low energy seams which most of the times will produce desirable results.
+Naive resizing methods are content-unaware methods and hence produce undesirable results. Here is implementation of content-aware resizing of images by identifying and manipulating the low energy seams which most of the times will produce desirable results.
 The paper to refer to http://www.eng.tau.ac.il/~avidan/papers/imretFinal.pdf.
 This method was proposed by Shai Avidan and Ariel Shamir.
 How to use this?
